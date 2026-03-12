@@ -2,7 +2,7 @@
 
 # Dan Lius Monsales
 
-**Full-stack developer** building fast, reliable web apps.
+Full Stack developer who loves coding more than anything.
 
 Philippines &nbsp;·&nbsp; 2+ years experience &nbsp;·&nbsp; 10+ projects &nbsp;·&nbsp; 5+ clients worldwide
 
