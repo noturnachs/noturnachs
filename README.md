@@ -51,15 +51,20 @@ Full-stack developer building fast, reliable web apps. Based in Philippines.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [BetterISMIS](https://chromewebstore.google.com/detail/betterismis/ehcnpophjjakohckcbpfmimabklkcffk?hl=en) | Chrome extension that enhances ISMIS with auto-accept privacy policy and dark mode | Extension, JavaScript |
-| [Lius.live](https://lius.live/) | Minimal link shortener with analytics and custom portfolios | React, PostgreSQL |
-| [AlphaSys](https://alphasys.share.zrok.io/) | ECC processing and compliance reporting platform | React, MongoDB |
-| [Serenity](https://serenity.share.zrok.io/) | Mountain resort website in Busay, Cebu City | React, MongoDB |
-| [MoneyUp](https://moneyup.me/) | Personal finance management tool | React, MongoDB |
-| [LeeyosChat](https://leeyos.com/) | Anonymous chat platform with real-time messaging | React, Socket.io |
-| [BookIt](https://dorm-bookingfinal.onrender.com/) | Dormitory booking system for USC students | React, MongoDB |
-| [ValoParty](https://valoparty.com/) | Find Valorant teammates and playmates | React, Firebase |
-| [HopeThreads](https://hopethreadstest.onrender.com/) | Portfolio website for fashion brand | React, MongoDB |
-| [Rhythm Wars](https://rhythm-game-frontend.onrender.com/) | Interactive web-based rhythm game | React, WebAudio API, Canvas |
+| [Leeyos](https://leeyos.com/) | Anonymous chat platform with real-time messaging | React, Socket.io |
+
+**Archived**
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| Lius.live | Minimal link shortener with analytics and custom portfolios | React, PostgreSQL |
+| AlphaSys | ECC processing and compliance reporting platform | React, MongoDB |
+| Serenity | Mountain resort website in Busay, Cebu City | React, MongoDB |
+| MoneyUp | Personal finance management tool | React, MongoDB |
+| BookIt | Dormitory booking system for USC students | React, MongoDB |
+| ValoParty | Find Valorant teammates and playmates | React, Firebase |
+| HopeThreads | Portfolio website for fashion brand | React, MongoDB |
+| Rhythm Wars | Interactive web-based rhythm game | React, WebAudio API, Canvas |
 
 ---
 
