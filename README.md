@@ -65,7 +65,8 @@ Full-stack developer building fast, reliable web apps. Based in Philippines.
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noturnachs&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noturnachs&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=6e7681)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noturnachs&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
 
 ---
 
