@@ -1,8 +1,12 @@
+<div align="center">
+
 # Dan Lius Monsales
 
-Full-stack developer building fast, reliable web apps. Based in Philippines.
+**Full-stack developer** building fast, reliable web apps.
 
-2+ years of experience &nbsp;&middot;&nbsp; 10+ projects &nbsp;&middot;&nbsp; 5+ clients worldwide
+Philippines &nbsp;·&nbsp; 2+ years experience &nbsp;·&nbsp; 10+ projects &nbsp;·&nbsp; 5+ clients worldwide
+
+</div>
 
 ---
 
@@ -53,7 +57,9 @@ Full-stack developer building fast, reliable web apps. Based in Philippines.
 | [BetterISMIS](https://chromewebstore.google.com/detail/betterismis/ehcnpophjjakohckcbpfmimabklkcffk?hl=en) | Chrome extension that enhances ISMIS with auto-accept privacy policy and dark mode | Extension, JavaScript |
 | [Leeyos](https://leeyos.com/) | Anonymous chat platform with real-time messaging | React, Socket.io |
 
-**Archived**
+<details>
+<summary><strong>Archived</strong></summary>
+<br>
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -66,13 +72,23 @@ Full-stack developer building fast, reliable web apps. Based in Philippines.
 | HopeThreads | Portfolio website for fashion brand | React, MongoDB |
 | Rhythm Wars | Interactive web-based rhythm game | React, WebAudio API, Canvas |
 
+</details>
+
 ---
 
 ## Stats
 
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noturnachs&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=6e7681)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noturnachs&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
 
+</div>
+
 ---
 
-[danlius.com](https://danlius.com) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/dan-lius-monsales-021a852a0/) &nbsp;&middot;&nbsp; [monsalesdanlius.stem1@gmail.com](mailto:monsalesdanlius.stem1@gmail.com)
+<div align="center">
+
+[danlius.com](https://danlius.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/dan-lius-monsales-021a852a0/) &nbsp;·&nbsp; [monsalesdanlius.stem1@gmail.com](mailto:monsalesdanlius.stem1@gmail.com)
+
+</div>
