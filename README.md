@@ -4,7 +4,7 @@
 
 Full Stack developer who loves coding more than anything.
 
-Philippines &nbsp;·&nbsp; 2+ years experience &nbsp;·&nbsp; 10+ projects &nbsp;·&nbsp; 5+ clients worldwide
+Philippines &nbsp;·&nbsp; 3+ years experience &nbsp;·&nbsp; 13+ projects &nbsp;·&nbsp; 6+ clients worldwide
 
 </div>
 
@@ -80,8 +80,8 @@ Philippines &nbsp;·&nbsp; 2+ years experience &nbsp;·&nbsp; 10+ projects &nbsp
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noturnachs&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=6e7681)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noturnachs&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=noturnachs&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noturnachs&theme=github_dark)
 
 </div>
 
